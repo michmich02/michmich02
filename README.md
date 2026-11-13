@@ -2,8 +2,6 @@
 
 Design Engineer exploring how motion, gestures, and digital materials make interfaces feel alive.
 
-[Portfolio](https://michelleguan.design/)
-
 ## Selected experiments
 
 | Project | Explore | |
